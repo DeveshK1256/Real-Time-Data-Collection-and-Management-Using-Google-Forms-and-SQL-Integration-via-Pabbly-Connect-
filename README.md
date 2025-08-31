@@ -1,0 +1,2 @@
+# Real-Time-Data-Collection-and-Management-Using-Google-Forms-and-SQL-Integration-via-Pabbly-Connect-
+This project automates the process of capturing Google Form responses and storing them in a MySQL database in real-time using Pabbly Connect. Instead of manually exporting responses from Google Sheets, this setup ensures that every form submission is automatically inserted into the database with a structured schema (form_responses table).
