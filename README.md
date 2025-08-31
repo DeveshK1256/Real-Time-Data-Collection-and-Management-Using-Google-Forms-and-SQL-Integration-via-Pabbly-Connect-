@@ -30,6 +30,22 @@ This project demonstrates how to **collect responses from a Google Form and stor
 
 ---
 
+
+## 🔗 Live Demo
+1. **Google Form – Student Skills & Employability Readiness Survey**
+<img width="632" height="320" alt="image" src="https://github.com/user-attachments/assets/c601687e-06c2-4725-be48-e8e67976483d" />
+
+2. **Pabbly Connect Workflow – Google Form to MySQL Integration**
+<img width="659" height="352" alt="image" src="https://github.com/user-attachments/assets/e590a1b1-5e58-48e3-9b58-409415110ffb" />
+
+3. **SQL Database (phpMyAdmin) – Stored Responses**
+<img width="678" height="338" alt="image" src="https://github.com/user-attachments/assets/7efa7f0d-fae5-4f5b-ba17-e2d66a45dfed" />
+
+---
+
+
+
+
 ## 🚀 How It Works
 1. Create a **Google Form** for collecting responses.
 2. Configure **Pabbly Connect**:
